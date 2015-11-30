@@ -19,3 +19,7 @@ Más allá de esto hay otras motivaciones que hacen de las consolas un elemento 
 - **Ecualizaciones musicales:** Los ecualizadores de las consolas en general son ecualizadores del tipo musical, es decir que tienen anchos de banda mas bien grandes, por lo que afectan además de la frecuencia seleccionada armónicos importantes como la octava y por lo tanto tienden a sonar mejor para producir realces frecuenciales. 
 - **Simplicidad:** Cuando se mezcla sobre una consola la tarea se vuelve algo más fácil, ya que tenemos algunas limitantes que nos hacen trabajar sobre los elementos que verdaderamente importan o sea la ecualización y la dinámica; además las mezclas tienden a sonar bien con mayor facilidad.
 - **Continuidad entre mezclas:** Cuando se trata de mezclar un conjunto de canciones, a veces se hace difícil dentro del secuenciador lograr que todas se parezcan respecto al color; dentro de la consola solo hay que usar los mismos parámetros y cambiar cosas finas como niveles, automatizaciones y afectos, para lograr un resultado homogeneo de toda la producción.
+
+# Markdown y tal
+
+_Texto Enfatizado_
